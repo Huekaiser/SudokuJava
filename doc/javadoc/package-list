@@ -1,0 +1,5 @@
+clasesComunes
+clasesPropias.Dominio.Clases
+clasesPropias.Dominio.Controladores
+clasesPropias.Persistencia
+clasesPropias.Presentacion
